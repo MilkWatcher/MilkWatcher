@@ -49,5 +49,5 @@
 ---
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=317hatk3wjixjqlev6x6m3bkzzsi" alt="Spotify recently played"  />
 </div>
