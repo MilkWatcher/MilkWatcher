@@ -6,15 +6,11 @@
   <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-<h1 align="center">⚫ Welcome</h1>
-
-<p align="center">
-  <b></b>  
-</p>
+<h1 align="center">Welcome To My Profile</h1>
 
 ---
 
-### 🖤 About Me
+### About Me
 - UI / UX Designer Freelancer 
 - Software Development Student at SETU
 - Aspiring UX Designer for big tech
