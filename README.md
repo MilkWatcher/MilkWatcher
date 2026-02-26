@@ -16,6 +16,7 @@
 
 ---
 
+<><
 
 ---
 
@@ -32,11 +33,10 @@ Documenting my work [1] - [0] Me
 ### ​Tech Stack​
 - ​C​++  
 - ​Java
-- Google Firebase
-- Flutter Framework / Dart
+- Google Firebase / Flutter Framework / Dart
 - HTML / CSS / Javascript
 - ​PHP​
-- Assembly x64​
+- Assembly​
 
 ---
 ### ​Projects
