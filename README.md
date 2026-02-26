@@ -1,4 +1,4 @@
-<p align="center">
+<img width="1905" height="1032" alt="image" src="https://github.com/user-attachments/assets/099f77c0-463c-496d-b2a1-6b01593cb049" /><p align="center">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -40,7 +40,10 @@ Documenting my work [1] - [0] Me
 
 ---
 ### ​Projects
-[WIP]
+#Blogger Manager
+https://bloggermanager-f1e21.web.app/
+Flutter/Dart, Firebase
+
 
 
 ---
