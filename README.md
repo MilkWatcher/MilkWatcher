@@ -25,6 +25,8 @@
 - Software Development Student @ SETU Y3
 - ​ZeroDays CTF Player (3 Years experience)
 
+Documenting my work [1] - [0] Me
+
 ---
 
 ### ​Tech Stack​
