@@ -15,9 +15,9 @@
 </p>
 
 ---
-
+<p align="center">
 <><
-
+</p>
 ---
 
 ### ​About Me​
