@@ -6,13 +6,13 @@
 
 
 <p align="center">
-  M I L K W A T C H E R
+  R E A N
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MilkWatcher&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilkWatcher&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" height="160" />
+  <i>aliases: sojumilk, milkwatcher, adalvr</i>
 </p>
+
 
 ---
 
@@ -22,36 +22,34 @@
   
 ---
 
-### ​About Me​
-- 19 . Filipino - Irish
-- UI.UX
-- Software Development Student @ SETU Y3
-- ​ZeroDays CTF Player (3 Years experience)
-
-Documenting my work [1] - [0] Me
+### about me
+- 19 (23.08) · filipino-irish
+- software dev student @ SETU
+- ZeroDays CTF player (3 years experience)
 
 ---
 
-### ​Tech Stack​
-- ​C​++  
-- ​Java
-- Google Firebase / Flutter Framework / Dart
+### tech stack
+- Google Firebase / Flutter / Dart
 - HTML / CSS / Javascript
-- ​PHP​
-- Assembly​
+- Java
+- C++  
+- PHP
+- Assembly
 
 ---
-### ​Projects
-#### Blogger Manager
-https://bloggermanager-f1e21.web.app/
-Flutter/Dart, Firebase
 
-#### StepmaniaX Player Card maker
-https://smx-ie.web.app/
-Flutter/Dart, Firebase
+### projects
+#### [blogger manager](https://bloggermanager-f1e21.web.app/)
+stack: connecting newspaper agencies and bloggers · Flutter/Dart, Firebase
 
+<br>
+
+#### [stepmaniax - emerald steps tourney card generator](https://smx-ie.web.app/)
+stack: Flutter/Dart, Firebase
 
 
 ---
-### My MP3 player:
+
+### my mp3 player
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=317hatk3wjixjqlev6x6m3bkzzsi" alt="Spotify recently played"  />
