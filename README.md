@@ -1,42 +1,53 @@
-```
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│                       rean                           │
-│           (sojumilk, milkwatcher, adalvr)            │
-│                                                      │
-│                        <><                           │
-│                                                      │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  > about me                                          │
-│    19 (23.08) · filipino-irish                       │
-│    software dev student @ SETU                       │
-│    ZeroDays CTF player (3 yrs exp)                   │
-│                                                      │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  > tech stack                                        │
-│    firebase / flutter / dart                         │
-│    html / css / javascript                           │
-│    java · c++ · php · assembly                       │
-│                                                      │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  > projects                                          │
-│    [blogger manager]         flutter/dart, firebase  │
-│    [smx tourney card maker]  flutter/dart, firebase  │
-│                                                      │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  > socials                                           │
-│    github · twitch · youtube                         │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
 
 <p align="center">
-  <a href="https://bloggermanager-f1e21.web.app/">blogger manager</a> · <a href="https://smx-ie.web.app/">smx card maker</a> · <a href="https://github.com/MilkWatcher">github</a> · <a href="https://www.twitch.tv/s0jumilk">twitch</a> · <a href="https://www.youtube.com/@milkwatcher">youtube</a>
+  R E A N
 </p>
+
+<p align="center">
+  <i>aliases: sojumilk, milkwatcher, adalvr</i>
+</p>
+
+
+---
+
+<p align="center">
+<><
+</p>
+  
+---
+
+### about me
+- 19 (23.08) · filipino-irish
+- software dev student @ SETU
+- ZeroDays CTF player (3 years experience)
+
+---
+
+### tech stack
+- Google Firebase / Flutter / Dart
+- HTML / CSS / Javascript
+- Java
+- C++  
+- PHP
+- Assembly
+
+---
+
+### projects
+#### [blogger manager](https://bloggermanager-f1e21.web.app/)
+stack: connecting newspaper agencies and bloggers · Flutter/Dart, Firebase
+
+<br>
+
+#### [stepmaniax - emerald steps tourney card generator](https://smx-ie.web.app/)
+stack: Flutter/Dart, Firebase
+
 
 ---
 
