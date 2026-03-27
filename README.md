@@ -40,6 +40,7 @@
 ---
 
 ### projects
+#### [personal site](https://milkwatcher.github.io/rean/) html, js, css
 #### [blogger manager](https://bloggermanager-f1e21.web.app/)
 stack: connecting newspaper agencies and bloggers · Flutter/Dart, Firebase
 
