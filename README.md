@@ -39,14 +39,21 @@
 
 ---
 
-### projects
+### solo projects
 #### [personal site](https://milkwatcher.github.io/rean/)
 stack: html, js, css
 
 <br>
 
-#### [blogger manager](https://bloggermanager-f1e21.web.app/)
-stack: connecting newspaper agencies and bloggers · Flutter/Dart, Firebase
+#### [blogger manager]([https://bloggermanager-f1e21.web.app/](https://milkwatcher.github.io/ie_vsrg))
+connecting newspaper agencies and bloggers<br>
+stack: Flutter/Dart, Firebase
+
+<br>
+
+#### [official irish VSRG ranking](https://milkwatcher.github.io/rean/)
+4key irish community ranking system
+stack: html, js, css
 
 <br>
 
