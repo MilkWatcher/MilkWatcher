@@ -45,8 +45,8 @@ stack: html, js, css
 
 <br>
 
-#### [blogger manager]([https://bloggermanager-f1e21.web.app/](https://milkwatcher.github.io/ie_vsrg))
-connecting newspaper agencies and bloggers<br>
+#### [blogger manager](https://bloggermanager-f1e21.web.app/)
+connecting newspaper agencies and bloggers
 stack: Flutter/Dart, Firebase
 
 <br>
