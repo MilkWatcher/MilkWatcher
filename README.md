@@ -23,8 +23,8 @@
 ---
 
 ### about me
-- 19 (23.08) · filipino-irish
-- software dev student @ SETU
+- 20 (23.08) · filipino-irish
+- BSc Software Development @ Setu
 - ZeroDays CTF player (3 years experience)
 
 ---
@@ -42,6 +42,11 @@
 ### solo projects
 #### [personal site](https://milkwatcher.github.io/rean/)
 stack: html, js, css
+
+<br>
+
+#### [ranked catan](https://rankingcatan.fly.dev/rankingcatan/)
+stack: node.js, express, sqlite, html, js, css, fly
 
 <br>
 
